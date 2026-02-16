@@ -16,4 +16,4 @@ I am a data analyst and data science enthusiast with a passion for uncovering in
 
 
 📫 How to reach me:  [kommidianvesh@gmail.com]()
-Let's connect on LinkedIn to discuss more on Data Analytics. [My Linkedin Porfile]([http://www.linkedin.com/in/anvesh-reddy-b847b4344])
+Let's connect on LinkedIn to discuss more on Data Analytics. [My Linkedin Porfile](http://www.linkedin.com/in/anvesh-reddy-b847b4344)
